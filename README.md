@@ -22,10 +22,10 @@ El proyecto está compuesto por tres actividades principales:
 - `AndroidManifest.xml` → Declaración de actividades.
 
 ## 🖼️ Capturas de Pantalla
-![imagen0](/img/0.jpg)
+![imagen0](img/0.png)
 
-![imagen1](1.png)
+![imagen1](img/1.png)
 
-![imagen2](2.png)
+![imagen2](img/2.png)
 
 

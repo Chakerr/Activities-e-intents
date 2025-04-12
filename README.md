@@ -29,3 +29,4 @@ El proyecto está compuesto por tres actividades principales:
 ![imagen2](img/2.png)
 
 
+
